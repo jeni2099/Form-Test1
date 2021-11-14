@@ -1,0 +1,73 @@
+body {
+    background: url(p3.jpg);
+    font-size: 130%;
+    font-weight: 900;
+}
+
+.card {
+    padding: 50px;
+    margin-left: 420px;
+    background-color: rgba(0, 195, 255, 0.219);
+    width: 33%;
+    border-radius: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.a {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 35px;
+}
+
+.c {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+select {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid black;
+} 
+
+.d {
+    margin-left: 60px;
+}
+
+.e {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 55px;
+}
+
+.f {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 45px;
+}
+
+.g {
+    margin-left: 45px;
+}
+
+.h {
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
